@@ -1,0 +1,33 @@
+
+#jumbo-welcome {
+    background-color: #a56de2;
+    color: #fafafa;
+    border-radius: 0;
+}
+
+#jumbo-welcome img.rounded-circle {
+    max-width: 150px;
+    margin-bottom: 50px;
+}
+
+#jumbo-myworks {
+    background-color: #89ffdd;
+    margin-top: -32px;
+    border-radius: 0;
+}
+
+#jumbo-myworks .card {
+    background-color: #43d6b5;
+    border-color: #40d0af;
+    color: #0e141f;
+    box-shadow: 2px 2px 5px 0px #0000007a;
+}
+
+#jumbo-myworks .card-img {
+    max-width: 200px;
+}
+
+#jumbo-myworks .card .card-text a {
+    color: #a56de2;
+    font-weight: bold;
+}
